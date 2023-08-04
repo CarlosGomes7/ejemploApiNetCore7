@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nacjiKRXrWDHTOcRGnCuNKYAqZymy7fDF/Hp+0hXGWA=",
+  "Source": "Example_API_v1",
+  "BasePath": "_content/Example_API_v1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
