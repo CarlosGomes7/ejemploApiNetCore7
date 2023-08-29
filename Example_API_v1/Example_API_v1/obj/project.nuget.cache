@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "85MzEEhM/aTGVX9X1Tux/79jQpMNQUuYGmSCWVtkh3vx6JfuW7kcStCE3AskNuGcLqUSxDB575WwRGp1RoOGyw==",
+  "dgSpecHash": "EqSKF8+C5AfkeoB8kG6kd5HJI0/JGh10hj3qqz7LJPIZvBFzfZ2aUmo62Q8+269gSqU8obID9UfKS9XQKpB2eQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\carlo\\OneDrive\\Documentos\\programacion\\Ejercicios\\Repositorios\\Backend\\netcore\\ejemploApiNetCore7\\Example_API_v1\\Example_API_v1\\Example_API_v1.csproj",
+  "projectFilePath": "C:\\Users\\carlo\\OneDrive\\Documentos\\Carlos\\programacion\\Ejercicios\\Repositorios\\Backend\\netcore\\ejemploApiNetCore7\\Example_API_v1\\Example_API_v1\\Example_API_v1.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\carlo\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\carlo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\carlo\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\carlo\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\carlo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
